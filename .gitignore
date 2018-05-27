@@ -14,3 +14,4 @@
 *.tar.gz
 *.rar
 *.bat
+/bin/
